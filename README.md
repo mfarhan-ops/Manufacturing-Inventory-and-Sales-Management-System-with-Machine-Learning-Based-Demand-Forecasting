@@ -1,0 +1,2 @@
+# Manufacturing-Inventory-and-Sales-Management-System-with-Machine-Learning-Based-Demand-Forecasting
+A web application for a small manufacturer to manage raw materials, production, inventory, customer orders, deliveries, invoices, and payments. Machine learning will predict weekly demand using past sales, helping the company plan production and identify material shortages. A dashboard will show stock, sales, orders, and outstanding balances.
